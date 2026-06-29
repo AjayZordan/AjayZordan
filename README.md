@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ajay 👋</h1>
+<h1 align="center">Ajay Kumar</h1>
 <h3 align="center">Full-Stack Developer · AI & Security Engineer</h3>
 
 <p align="center">
@@ -12,18 +12,18 @@
 
 ---
 
-### 🚀 About Me
+### About
 
-- 🎓 MCA graduate (2026), PES University, Bengaluru — CGPA 7.9
-- 💻 Full-stack developer with hands-on internship experience at **Zigguratss Artwork LLP** and **Webigo**
-- 🛡️ Built **ShieldPatch** — an AI-driven vulnerability detection and automated patch management platform
-- 🌐 Focused on the intersection of **AI/ML**, **cybersecurity**, and **full-stack engineering**
-- 📚 Certified in Ethical Hacking, Cybersecurity Fundamentals, and applied AI tooling
-- 🤝 Open to opportunities in Full-Stack Development, Frontend Engineering, and Security/SOC Analysis
+- MCA graduate (2026), PES University, Bengaluru — CGPA 7.9
+- Full-stack developer with hands-on internship experience at Zigguratss Artwork LLP and Webigo
+- Built ShieldPatch — an AI-driven vulnerability detection and automated patch management platform
+- Focused on the intersection of AI/ML, cybersecurity, and full-stack engineering
+- Certified in Ethical Hacking, Cybersecurity Fundamentals, and applied AI tooling
+- Open to opportunities in Full-Stack Development, Frontend Engineering, and Security/SOC Analysis
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -55,29 +55,28 @@
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
-#### 🛡️ [ShieldPatch](https://github.com/AjayZordan/ShieldPatch)
+**[ShieldPatch](https://github.com/AjayZordan/ShieldPatch)**
 AI-driven vulnerability detection and automated patch management platform integrating live threat intelligence (CVE, EPSS, ExploitDB), ML-based risk scoring, sandboxed patch testing, and an AI chatbot.
 `Python` `Flask` `React` `MySQL` `Docker` `TensorFlow` `XGBoost` `Rasa`
 
-#### 🌾 [Local Farmer Support System](https://github.com/AjayZordan/LFSS)
+**[Local Farmer Support System](https://github.com/AjayZordan/LFSS)**
 Multilingual agricultural advisory platform delivering hyper-local, real-time crop recommendations using GPS geolocation and live weather data via REST API.
 `Angular` `Node.js` `Express.js` `MySQL` `OpenWeather API`
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AjayZordan&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AjayZordan&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=AjayZordan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjayZordan&layout=compact&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjayZordan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="165">
 </p>
 
 ---
 
-<p align="center"><i>Open to Full-Stack Developer, Frontend Engineer, and Security/SOC Analyst roles 🚀</i></p>
+<p align="center"><i>Open to Full-Stack Developer, Frontend Engineer, and Security/SOC Analyst roles</i></p>
