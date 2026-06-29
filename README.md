@@ -70,11 +70,15 @@ Multilingual agricultural advisory platform delivering hyper-local, real-time cr
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AjayZordan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AjayZordan&theme=tokyonight&hide_border=true" height="165">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjayZordan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="165">
+  <img src="https://nice-readme.vercel.app/api/stats?username=AjayZordan&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+</p>
+
+<p align="center">
+  <img src="https://nice-readme.vercel.app/api/top-langs?username=AjayZordan&layout=compact&theme=tokyonight&hide_border=true" height="165">
 </p>
 
 ---
