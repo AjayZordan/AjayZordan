@@ -73,14 +73,6 @@ Multilingual agricultural advisory platform delivering hyper-local, real-time cr
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AjayZordan&theme=tokyonight&hide_border=true" height="165">
 </p>
 
-<p align="center">
-  <img src="https://nice-readme.vercel.app/api/stats?username=AjayZordan&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-</p>
-
-<p align="center">
-  <img src="https://nice-readme.vercel.app/api/top-langs?username=AjayZordan&layout=compact&theme=tokyonight&hide_border=true" height="165">
-</p>
-
 ---
 
 <p align="center"><i>Open to Full-Stack Developer, Frontend Engineer, and Security/SOC Analyst roles</i></p>
